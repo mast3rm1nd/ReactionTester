@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\bin\Debug\ReactionTester.exe
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\bin\Debug\ReactionTester.pdb
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester.g.resources
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester.exe
+E:\Dropbox\!Coding\All_in_one\ReactionTester\ReactionTester\obj\Debug\ReactionTester.pdb
